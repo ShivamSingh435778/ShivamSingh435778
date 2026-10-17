@@ -1,5 +1,6 @@
 ### Hi, I'm Shivam Singh 👋
-**B.TECH(CSE) Student | Greater Noida, India**
+
+**B.TECH CSE(AI & ML) Student |  AI/ML Enthusiast  |  Greater Noida, India**
 
 🚀 Passionate about Coding, Data Structures & Web Development
 💻 Currently building: **User Analytics App & Portfolio**
@@ -14,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📌 Pinned Projects
-- [my-portfolio-site](https://github.com/ShivamSingh435778/shivam--portfolio-) - My personal portfolio website
+- [shivam--portfolio](https://github.com/ShivamSingh435778/shivam--portfolio-) - My personal portfolio website
 - [user-analytics-app](https://github.com/ShivamSingh435778/user-analytics-app) - Analytics dashboard in JS
 
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamSingh435778&show_icons=true&theme=tokyonight)
