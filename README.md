@@ -3,8 +3,11 @@
 **B.TECH CSE(AI & ML) Student |  AI/ML Enthusiast  |  Greater Noida, India**
 
 🚀 Passionate about Coding, Data Structures & Web Development
+
 💻 Currently building: **User Analytics App & Portfolio**
+
 🌱 Learning: **Full Stack (MERN) & DSA**
+
 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/shivam-singh-1b14a532a) | rajput99545@gmail.com
 
 ### 🛠️ Tech Stack
