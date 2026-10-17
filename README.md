@@ -4,7 +4,7 @@
 🚀 Passionate about Coding, Data Structures & Web Development
 💻 Currently building: **User Analytics App & Portfolio**
 🌱 Learning: **Full Stack (MERN) & DSA**
-🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/shivam-singh-1b14a532a) | raja499545@gmail.com
+🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/shivam-singh-1b14a532a) | rajput99545@gmail.com
 
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
