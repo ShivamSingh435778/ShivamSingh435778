@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**ShivamSingh435778/ShivamSingh435778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Shivam Singh 👋
+B.TECH(CSE) Student | Greater Noida, India
 
-Here are some ideas to get you started:
+🚀 Passionate about Coding, Data Structures & Web Development
+💻 Currently building: User Analytics App & Portfolio
+🌱 Learning: Full Stack (MERN) & DSA
+📫 Connect with me: [LinkedIn] (https://www.linkedin.com/in/shivam-singh-1b14a532a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+`HTML` `CSS` `JavaScript` `Python` `Git` `GitHub`
+
+### Pinned Projects
+- **shivam-portfolio** - My personal portfolio website
+- **user-analytics-app** - Analytics dashboard in JS
+
+---
+⭐️ From ShivamSingh435778
