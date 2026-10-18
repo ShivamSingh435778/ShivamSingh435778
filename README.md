@@ -1,12 +1,14 @@
 ### Hi, I'm Shivam Singh 👋
 
-**B.TECH CSE(AI & ML) Student |  AI/ML Enthusiast  |  Greater Noida, India**
+**B.TECH CSE(AI & ML) Student Passionate about Building AI Product  | Greater Noida, India**
 
-🚀 Passionate about Coding, Data Structures & Web Development
+🚀 I build AI Powered Web Applications end-to-end  |   Python, ML, java, SQL, Web development & Data Structure
 
-💻 Currently building: **User Analytics App & Portfolio**
+💻 Exploring: LLM, RAG, Generative AI & Agentic AI
 
-🌱 Learning: **Full Stack (MERN) & DSA**
+🌱 Learning: **Full Stack (MERN) & DSA(JAVA)**
+
+🎯 Goal: To combine AI + Web to build Full-stack AI Products that  solve real world problem
 
 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/shivam-singh-1b14a532a) | rajput99545@gmail.com
 
