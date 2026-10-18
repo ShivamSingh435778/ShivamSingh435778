@@ -1,6 +1,6 @@
 ### Hi, I'm Shivam Singh 👋
 
-**B.TECH CSE(AI & ML) Student Passionate about Building AI Product  | Greater Noida, India**
+**B.TECH CSE(AI & ML) Student Building AI Product  | Greater Noida, India**
 
 🚀 I build AI Powered Web Applications end-to-end  |   Python, ML, java, SQL, Web development & Data Structure
 
