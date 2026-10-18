@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📌 Pinned Projects
-- [shivam--portfolio](https://github.com/ShivamSingh435778/shivam--portfolio-) - My personal portfolio website
+- [My-portfolio-Website](https://github.com/ShivamSingh435778/shivam--portfolio-) - My personal portfolio website
 - [user-analytics-app](https://github.com/ShivamSingh435778/user-analytics-app) - Analytics dashboard in JS
 
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamSingh435778&show_icons=true&theme=tokyonight)
